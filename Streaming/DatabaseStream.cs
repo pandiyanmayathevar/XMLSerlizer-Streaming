@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 
 namespace Streaming
 {
-
+    [Serializable()]
     [XmlRoot("ArrayRecord")]
     public class RecordClass
     {
@@ -19,6 +19,7 @@ namespace Streaming
         public Employee Record { get; set; }
     }
 
+    [Serializable()]
     public class Header
     {
         [XmlAttribute("type")]
@@ -32,6 +33,7 @@ namespace Streaming
     //[Serializable]
     //[XmlRoot("ArrayRecord")]
     //[XmlType("Record")]
+    [Serializable()]
     public class Employee
     {
 
@@ -165,6 +167,8 @@ namespace Streaming
                 return writer.ToString();
             }
         }
+
+
 
         public override long Seek(long offset, System.IO.SeekOrigin origin)
         {

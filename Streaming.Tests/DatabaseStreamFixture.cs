@@ -2,9 +2,13 @@
 using System.Data;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Xml.Serialization;
 
 namespace Streaming.Tests
 {
+
+
+
     [TestClass]
     public class DatabaseStreamFixture
     {
@@ -37,7 +41,17 @@ namespace Streaming.Tests
             int numBytesToRead = (int)EmpData.Length;
             int numBytesRead = 0;
 
-            dbStream.Read(bytes, numBytesRead, numBytesRead);
+
+            if (dbStream.Read(bytes, numBytesRead, numBytesRead) == 1) {
+                byte[] XMLSerial = dbStream.xmlBytes;
+  
+            }
+            
+
+
+           
+
+
 
             Console.Write("Success");
 

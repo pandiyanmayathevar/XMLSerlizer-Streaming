@@ -4,3 +4,9 @@ C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.csprojResolve
 C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
 C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.dll
 C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.pdb
+C:\XML\xmlserlizer\Streaming\bin\Debug\Streaming.dll
+C:\XML\xmlserlizer\Streaming\bin\Debug\Streaming.pdb
+C:\XML\xmlserlizer\Streaming\obj\Debug\Streaming.csprojResolveAssemblyReference.cache
+C:\XML\xmlserlizer\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\XML\xmlserlizer\Streaming\obj\Debug\Streaming.dll
+C:\XML\xmlserlizer\Streaming\obj\Debug\Streaming.pdb
