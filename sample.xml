@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfRecord>
+   <Header>
+      <Field name="Id" type="System.Int32" />
+      <Field name="Name" type="System.String" />
+      <Field name="Salary" type="System.Decimal" />
+   </Header>
+   <Record>
+      <Id>1</Id>
+      <Name>John Doe</Name>
+      <Salary>15.5</Salary>
+   </Record>
+</ArrayOfRecord>

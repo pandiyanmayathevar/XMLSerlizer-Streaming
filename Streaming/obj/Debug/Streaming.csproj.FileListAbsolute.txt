@@ -1,0 +1,6 @@
+C:\Users\mayatpa\Downloads\Streaming\Streaming\bin\Debug\Streaming.dll
+C:\Users\mayatpa\Downloads\Streaming\Streaming\bin\Debug\Streaming.pdb
+C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.csprojResolveAssemblyReference.cache
+C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.dll
+C:\Users\mayatpa\Downloads\Streaming\Streaming\obj\Debug\Streaming.pdb
